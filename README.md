@@ -101,4 +101,15 @@ To the north of the line,
 you could reach Gangwon province.
 ```
 
+# DaVinci Resolve Subtitle Import
+In DaVinci Resolve select File>Import>Subtitle. You can select the .str file.
+
+![DaVinci Resolve Subtitle Import](dvr_01.jpg)
+
+After import the subtitle can be displayed in a subtitle track.
+
+![DaVinci Resolve Subtitle Track Display](dvr_02.jpg)
+
+
+
     
