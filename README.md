@@ -1,5 +1,5 @@
 # FCP-SRT-XSLT
-rudimentary script for extraction of subtitles to DaVinci Resolve from Final Cut xmlusing XSLT
+rudimentary script for extraction of subtitles to DaVinci Resolve from Final Cut xml using XSLT
 
 The purpose of this SXLT Template is to extract individual subtitles from a final cut pro xml project.
 This transformation can be useful to import subtitles as .srt in DaVinci Resolve for exemple.
